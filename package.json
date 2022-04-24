@@ -1,0 +1,19 @@
+{
+  "name": "@tfack/flask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tfack/flask.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tfack/flask/issues"
+  },
+  "homepage": "https://github.com/tfack/flask#readme"
+}
