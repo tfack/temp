@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/tfack/flask.git"
   },
+  "publishConfig": {
+    "@tfack:registry": "https://npm.pkg.github.com"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
